@@ -3,8 +3,7 @@
 https://boloslocos.netlify.app/galery
 
 # Un poco sobre el proyecto
-
-Nace con la idea de un plan de negocio para la materia práctica profesional II de la carrera de Tec. en Adminitración.
+Este proyecto de página nace como complemento al plan de negocio que se presentó para la materia práctica profesional II de la carrera de Tec. en Adminitración.
 
 # Capturas
 
