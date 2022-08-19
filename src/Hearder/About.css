@@ -1,0 +1,15 @@
+.bg-nosotros{
+      background-color: #9b80ff!important;
+      box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+      transform: translateY(-10%);
+}
+
+.h1-about{
+      color: white!important;
+}
+
+.sombra{
+      opacity: 98%;
+      box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+      transform: translateY(-2%);
+}

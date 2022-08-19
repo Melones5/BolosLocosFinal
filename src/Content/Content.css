@@ -1,0 +1,68 @@
+.carousel-slider img{
+    background-color: rgb(100, 100, 100);
+    background-blend-mode: soft-light;
+    opacity: 98%;
+}
+
+.h1-home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+    color: white;
+}
+
+.p-home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgba(43, 42, 42, 0.6);
+}
+
+.bg-home{
+    background-color: #9b80ff!important;
+    box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+    transform: translateY(-2%);
+}
+
+.precio{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.p-danger{
+    color: red;
+}
+
+.sombra{
+    opacity: 98%;
+    box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+    transform: translateY(-2%);
+}
+
+.container-fluid {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;	    
+}
+
+.btn-home{
+    background-color: #9b80ff!important;
+    box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+    transform: translateY(-2%);
+}
+
+.h{
+    width: 10%;
+    height: 7px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #9b80ff!important;
+    box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+    transform: translateY(-2%);background-color: red;
+}

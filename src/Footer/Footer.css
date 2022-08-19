@@ -1,0 +1,48 @@
+.footer-body {
+      background: #9b80ff;
+      bottom: 0;
+  }
+
+  .footer-ul{
+      font-family: 'Poppins', sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      color: white;
+      padding: 0;
+  }
+  
+  .footer-p {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 600;
+      font-size: 18px;
+  }
+  
+  .footer-img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 147px;
+      height: 42px;  
+  }
+  
+  .footer-color {
+      background: #f93333;
+  }
+  
+  .center{
+      text-align:center;
+      display:flex; 
+      align-items:center;
+      justify-content:center;
+  }
+  
+  .p-footer{
+      font-family: 'Poppins', sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+  }
+  
+  .footer-brand{
+      text-decoration: none;
+      color: white;
+  }
