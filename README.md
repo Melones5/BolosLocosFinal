@@ -1,7 +1,7 @@
 # Link en netlify
 
-https://boloslocos.netlify.app/galery
-
+[https://boloslocos.netlify.app/galery
+](https://boloslocos.netlify.app/)
 # Un poco sobre el proyecto
 Este proyecto de página nace como complemento al plan de negocio que se presentó para la materia práctica profesional II de la carrera de Tec. en Adminitración.
 
